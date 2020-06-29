@@ -1,5 +1,5 @@
 # Jenkins with Ansible
-#Install wget
+#Install git
 
 #Install ansible using provoided shell script
 
